@@ -1,113 +1,118 @@
-## Hi there 👋
-💻 Full Stack Engineer | Python • Java • Angular • React | AWS | AI/GenAI
-I’m a Full Stack Engineer passionate about building scalable, reliable, and intelligent applications across backend development, modern frontend technologies, cloud platforms, APIs, and AI-enabled applications.
+# Hi, I'm Naveen Boggarapu 👋
 
-🚀 About Me
-💻 Full Stack Engineer building end-to-end applications
-🐍 Python, FastAPI, REST APIs & backend services
-☕ Java & Spring Boot
-🌐 Angular, React, TypeScript & JavaScript
-☁️ AWS, cloud-native applications & microservices
-🤖 AI/GenAI, RAG, LLMs & LangChain
-🗄️ SQL and data-driven applications
-🧩 System Design & scalable architectures
-🔄 CI/CD, Git, Docker & modern development practices
-🤝 Open to Software Engineer / Full Stack Engineer / Backend Engineer opportunities
-🛠️ Technical Skills
-Languages: Python • Java • JavaScript • TypeScript • SQL
-Frontend: Angular • React • HTML5 • CSS3 • Bootstrap
-Backend: FastAPI • Spring Boot • REST APIs • Microservices
-AI / GenAI: Generative AI • LLMs • RAG • LangChain • Prompt Engineering
-Cloud & DevOps: AWS • Docker • Git • GitHub • CI/CD
-Databases: PostgreSQL • MySQL • SQL
-Engineering: System Design • API Development • Agile • OOP
+### 💻 Software Engineer | Full Stack | AI/GenAI
 
-📌 Featured Projects
-💰 Spend Forecasting
-Python prototype for forecasting monthly spending patterns with trend and uncertainty estimates.
+I'm a Software Engineer focused on building scalable, reliable, and intelligent applications across **full-stack development, backend engineering, cloud, and AI/GenAI**.
 
-🧾 Expense Classification
-Machine-learning prototype that classifies invoice descriptions into expense categories.
+---
 
-🏪 Merchant Onboarding Checklist
-Java application that validates merchant documentation before review.
+## 🚀 About Me
 
-🛡️ API Contract Guardian
-Java utility that identifies breaking changes in API field contracts.
+- 💻 Building scalable **full-stack and backend applications**
+- 🐍 Working with **Python, FastAPI, REST APIs & backend services**
+- ☕ Developing enterprise applications with **Java & Spring Boot**
+- 🌐 Building modern UIs with **Angular, React, TypeScript & JavaScript**
+- ☁️ Working with **AWS, cloud-native applications & microservices**
+- 🤖 Building with **AI/GenAI, RAG, LLMs & LangChain**
+- 🗄️ Experienced with **SQL, PostgreSQL, MySQL & data-driven applications**
+- 🧩 Interested in **System Design & scalable architectures**
+- 🔄 Working with **CI/CD, Git, GitHub & Docker**
+- 🤝 Open to **Software Engineer, Full Stack Engineer & Backend Engineer opportunities**
 
-🎯 Currently Exploring
-Python & Java backend engineering • Angular & React • AWS • RAG & Generative AI • LLM applications • System Design • Microservices
+---
 
-🤝 Let's Connect
-📧 Email: naveenboggarapu05@gmail.com
-💻 GitHub: github.com/bnaveencherry-b
-🔗 LinkedIn: Add Naveen's LinkedIn URL here
-🌐 Portfolio: Add Naveen's portfolio URL here
+## 🛠️ Technical Skills
 
-💡 Engineering Mindset
-Learn → Build → Solve → Improve → Repeat
+### 💻 Languages
+`Python` `Java` `JavaScript` `TypeScript` `SQL`
 
-⭐ Thanks for visiting my profile!
-<!--
-**bnaveencherry-b/bnaveencherry-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 Frontend
+`Angular` `React` `HTML5` `CSS3` `Bootstrap`
 
-Here are some ideas to get you started:
+### ⚙️ Backend
+`FastAPI` `Spring Boot` `REST APIs` `Microservices`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-💻 Full Stack Engineer | Python • Java • Angular • React | AWS | AI/GenAI
-I’m a Full Stack Engineer passionate about building scalable, reliable, and intelligent applications across backend development, modern frontend technologies, cloud platforms, APIs, and AI-enabled applications.
+### 🤖 AI / GenAI
+`Generative AI` `LLMs` `RAG` `LangChain` `Prompt Engineering`
 
-🚀 About Me
-💻 Full Stack Engineer building end-to-end applications
-🐍 Python, FastAPI, REST APIs & backend services
-☕ Java & Spring Boot
-🌐 Angular, React, TypeScript & JavaScript
-☁️ AWS, cloud-native applications & microservices
-🤖 AI/GenAI, RAG, LLMs & LangChain
-🗄️ SQL and data-driven applications
-🧩 System Design & scalable architectures
-🔄 CI/CD, Git, Docker & modern development practices
-🤝 Open to Software Engineer / Full Stack Engineer / Backend Engineer opportunities
-🛠️ Technical Skills
-Languages: Python • Java • JavaScript • TypeScript • SQL
-Frontend: Angular • React • HTML5 • CSS3 • Bootstrap
-Backend: FastAPI • Spring Boot • REST APIs • Microservices
-AI / GenAI: Generative AI • LLMs • RAG • LangChain • Prompt Engineering
-Cloud & DevOps: AWS • Docker • Git • GitHub • CI/CD
-Databases: PostgreSQL • MySQL • SQL
-Engineering: System Design • API Development • Agile • OOP
+### ☁️ Cloud & DevOps
+`AWS` `Docker` `Git` `GitHub` `CI/CD`
 
-📌 Featured Projects
-💰 Spend Forecasting
-Python prototype for forecasting monthly spending patterns with trend and uncertainty estimates.
+### 🗄️ Databases
+`PostgreSQL` `MySQL` `SQL`
 
-🧾 Expense Classification
-Machine-learning prototype that classifies invoice descriptions into expense categories.
+### 🧩 Software Engineering
+`System Design` `API Development` `Agile` `OOP`
 
-🏪 Merchant Onboarding Checklist
-Java application that validates merchant documentation before review.
+---
 
-🛡️ API Contract Guardian
-Java utility that identifies breaking changes in API field contracts.
+## 📌 Featured Projects
 
-🎯 Currently Exploring
-Python & Java backend engineering • Angular & React • AWS • RAG & Generative AI • LLM applications • System Design • Microservices
+### 💰 Spend Forecasting
 
-🤝 Let's Connect
-📧 Email: naveenboggarapu05@gmail.com
-💻 GitHub: github.com/bnaveencherry-b
-🔗 LinkedIn: Add Naveen's LinkedIn URL here
-🌐 Portfolio: Add Naveen's portfolio URL here
+Python-based forecasting application for analyzing monthly spending patterns, trends, and uncertainty estimates.
 
-💡 Engineering Mindset
-Learn → Build → Solve → Improve → Repeat
+**Tech:** `Python` `Data Analysis` `Forecasting`
 
-⭐ Thanks for visiting my profile!
--->
+---
+
+### 🧾 Expense Classification
+
+Machine learning application that automatically classifies invoice descriptions into appropriate expense categories.
+
+**Tech:** `Python` `Machine Learning` `Data Processing`
+
+---
+
+### 🏪 Merchant Onboarding Checklist
+
+Java application designed to validate merchant documentation before review and improve onboarding consistency.
+
+**Tech:** `Java` `Backend Development` `Validation`
+
+---
+
+### 🛡️ API Contract Guardian
+
+Java utility designed to identify breaking changes in API field contracts and protect service integrations.
+
+**Tech:** `Java` `REST APIs` `API Validation`
+
+---
+
+## 🎯 Currently Exploring
+
+- 🤖 Advanced **Generative AI & RAG**
+- 🧠 **LLM-powered applications**
+- 🐍 Advanced **Python backend engineering**
+- ☕ **Java & Spring Boot**
+- ☁️ **AWS cloud architecture**
+- 🧩 **System Design**
+- ⚙️ Scalable **Microservices**
+- 🌐 Modern **Angular & React architectures**
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with **recruiters, engineers, and teams** working on impactful software and AI products.
+
+📧 **Email:** [naveenboggarapu05@gmail.com](mailto:naveenboggarapu05@gmail.com)
+
+💻 **GitHub:** [github.com/bnaveencherry-b](https://github.com/bnaveencherry-b)
+
+🔗 **LinkedIn:** Add Naveen's LinkedIn URL
+
+🌐 **Portfolio:** Add Naveen's Portfolio URL
+
+---
+
+## 💡 Engineering Mindset
+
+> **Learn → Build → Solve → Improve → Repeat**
+
+I enjoy turning complex problems into **simple, scalable, and maintainable software solutions**.
+
+---
+
+⭐ **Thanks for visiting my profile!**
